@@ -1,0 +1,22 @@
+HP - check
+Epson - check
+Brother - check
+Lexmark - check
+Kyocera - check
+AOC - check
+Samsung - check
+LG - check 
+ACER - check
+DELL - check 
+PHILIPS - check
+Positivo - check
+Lenovo - check
+Intelbras - check
+BenQ -  check
+SMS -marca do grupo Legrand
+
+
+-- faltando
+Concórdia -noncheck
+PCTOP  - check aleatorio 
+Ragnatech - fora do ar site malicioso 
